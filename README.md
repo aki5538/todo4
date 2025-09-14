@@ -48,16 +48,16 @@ php artisan db:seed
 ```
 
 ## 使用技術(実行環境)
--PHP 8.1
--Laravel 8.75
--MySQL 8.0
+- PHP 8.1
+- Laravel 8.75
+- MySQL 8.0
 
 ## ER図
 ![alt](docs/erd.png)
 
 ## 動作URL
-```
--開発環境 : http://localhost/
--phpMyAdmin : http://localhost:8080/
-```
+
+- 開発環境 : http://localhost/
+- phpMyAdmin : http://localhost:8080/
+
 
